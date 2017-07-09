@@ -1,0 +1,12 @@
+[
+  {"code": 400, "message": "Bad Request.</br>No no no ! You have made mistakes !"},
+  {"code": 401, "message": "Unauthorized.</br>I see you have the heart of an hacker !</br>You shall not pass !!!"},
+  {"code": 403, "message": "Forbidden.</br>Sorry it will not be possible to do this !"},
+  {"code": 404, "message": "Not Found.</br>Oops the requested resource is not here !"},
+  {"code": 418, "message": "Hello guys ! I'm a beautiful Teapot !</br>Do you want a cup of tea ? :)"},
+  {"code": 500, "message": "Internal Server Error.</br>Bad news !"},
+  {"code": 501, "message": "Not Implemented.</br>Too much work ! I did not have time to implement it.</br>Come back later."},
+  {"code": 502, "message": "Bad Gateway or Proxy Error.</br>No comment..."},
+  {"code": 503, "message": "Service Unavailable.</br>The service is down for maintenance. Did I break something ?"},
+  {"code": 504, "message": "Gateway Timeout ! </br>You just wasted your time..."}
+]
